@@ -82,7 +82,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![pic3](https://user-images.githubusercontent.com/86077011/122676768-e3455b00-d1f8-11eb-9c3c-a9de65611c92.png)
+<img src=https://user-images.githubusercontent.com/86077011/141293077-05291b8a-0bf1-4f4b-ae07-61c8c5d5c028.jpg width="360" height="720">
 
 Simple calculator I had made for... just because every newbie dev should have made his own calc.
 
