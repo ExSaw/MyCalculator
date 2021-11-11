@@ -84,14 +84,10 @@
 
 ![pic3](https://user-images.githubusercontent.com/86077011/122676768-e3455b00-d1f8-11eb-9c3c-a9de65611c92.png)
 
-
-The game came about when my friend accidentally broke his old Nokia phone. So after that he had bought a new modern one that uses the Android OS. Then he asked me if I could help him to revive one of games he loved to play on the old phone. The game was called Galaxy Balls. I decided to help him. After months (or maybe a year) of development I have made my own game with similar gamerules to the old one but much differently designed. This game is excellent for everyone who likes games with "3 in a row" mechanics and tetris style gameplay.
+Simple calculator I had made for... just because every newbie dev should have made his own calc.
 
 ### Built With
-* [Java](https://www.java.com)
-* [libGDX](https://libgdx.com)
-* [GLSL](https://wikipedia.org/wiki/OpenGL_Shading_Language)
-* [OpenGL ES 2.0](https://www.opengl.org)
+* [Kolin](https://kotlinlang.org/)
 
 
 <!-- GETTING STARTED -->
