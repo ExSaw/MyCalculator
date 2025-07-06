@@ -84,7 +84,7 @@
 Simple calculator I had made for... just because every newbie dev should have made his own calc.
 
 ### Built With
-* [Kolin](https://kotlinlang.org/)
+* [Kotlin](https://kotlinlang.org/)
 
 
 <!-- GETTING STARTED -->
